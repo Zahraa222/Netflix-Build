@@ -1,5 +1,7 @@
 # Getting Started with Create React App and Redux
 
+HOSTING URL:https://netflix-clone-18cc6.web.app
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
@@ -47,6 +49,3 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 TMDB: The Movie Database
 API KEY: f81980ff410e46f422d64ddf3a56dddd
-
-NPM INSTALLATIONS:
-npm install axios
