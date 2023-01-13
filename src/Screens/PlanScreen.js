@@ -72,7 +72,7 @@ function PlanScreen() {
         //redirecting session to checkout
         //init stripe
         const stripe = await loadStripe(
-          "pk_test_51MOENrGGvsr1xvMiVV72ZihpLLvn2gEadxswFuxyjLZOT57ZNkp12o4uJBdlOMNQxvqqEjoXCTqPlxhXaCF8Wk2A00W0MVA5sh"
+          "pk_test_51MOENrGGvsr1xvMiVV72ZihpLLvn2gEadxswFuxyjLZOT57ZNkp12o4uJBdlOMNQxvqqEjoXCTqPlxhXaCF8Wk2A00W0MVA5sh" //STRIPE API KEY
         );
         /* card test info:
         card#: 4242 4242 4242 4242
