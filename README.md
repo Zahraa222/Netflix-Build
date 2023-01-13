@@ -47,5 +47,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-TMDB: The Movie Database
-API KEY: f81980ff410e46f422d64ddf3a56dddd
+Movie catalog from TMDB:THE MOVIE DATABASE
