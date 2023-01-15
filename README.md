@@ -2,6 +2,15 @@
 
 HOSTING URL:https://netflix-clone-18cc6.firebaseapp.com/
 
+STRIPE PAYMENT TEST CARD:
+
+        card#: 4242 4242 4242 4242
+				Month/Year: 42/42
+				CVC: 424
+				Name: any string
+       
+Movie catalog from TMDB:THE MOVIE DATABASE API
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
@@ -47,4 +56,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-Movie catalog from TMDB:THE MOVIE DATABASE
+This project was made possible by https://www.youtube.com/playlist?list=PLf16UKl7nR5DaxECWIwHr82oXtQWgI4Ri.
