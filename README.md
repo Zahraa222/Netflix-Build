@@ -1,6 +1,7 @@
 # Getting Started with Create React App and Redux
 
 HOSTING URL:https://netflix-clone-18cc6.firebaseapp.com/
+
 (If an error prevents site access, try launching it in incognito mode!)
 
 STRIPE PAYMENT TEST CARD:
